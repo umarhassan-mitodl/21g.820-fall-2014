@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Portuguese"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "legacy_uid": "c6e81374-3946-5227-5da5-d475504a5872",
+  "instructors": {
+    "content": [
+      "887ed2cd-affd-ce43-9ebc-c6d193b60af2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ac4bc045-02ec-d970-5b4a-b15b1e94b59a",
+    "website": "21g-820-portuguese-advanced-conversation-and-composition-fall-2014"
+  },
+  "course_title": "Portuguese Advanced Conversation and Composition",
+  "course_description": "This is an advanced course that aims to build vocabulary competence and improve oral communication through the study and discussion of topics related to cultural aspects in Lusophone societies, primarily from current issues in Brazil. It is designed to give students extensive experience in Portuguese and emphasizes skill development and refinement in the area of critical reading and writing in Portuguese.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.820",
+  "course_image_thumbnail": {
+    "content": "27285991-7096-65d4-259d-0f6bda573c75",
+    "website": "21g-820-portuguese-advanced-conversation-and-composition-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Written Assignments",
+    "Presentation Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "6a926837-7ce5-4451-a7b3-fad77a393d62",
+  "site_short_id": "21g.820-fall-2014",
+  "site_url_path": "courses/21g-820-portuguese-advanced-conversation-and-composition-fall-2014",
+  "title": "Course Metadata"
+}
